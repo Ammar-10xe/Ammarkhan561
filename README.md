@@ -25,6 +25,11 @@ I am an Electrical Engineer from Pakistan.
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="matlab" width="40" height="40"/>&nbsp;
 </div>
 
+<hr />
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/Ammarkhan561/count.svg" />
+
 ## &nbsp; My Stats :
 
 <div align="center">
@@ -33,5 +38,4 @@ I am an Electrical Engineer from Pakistan.
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ammarkhan561&theme=dark&background=000000)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammarkhan561&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
