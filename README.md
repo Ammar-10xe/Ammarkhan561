@@ -1,13 +1,16 @@
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&center=true&width=1000&lines=Hi+there+%F0%9F%91%8B!+I'm+Ammar+khan)](https://git.io/typing-svg)
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ammarkhan561&label=Profile%20views&color=0e75b6&style=flat" alt="Ammarkhan561" />
+</p>
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Ammarkhan561/)](https://github.com/Ammarkhan561/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/ammarkhank561)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:ammar.sarwar@10xengineers.ai)
-
-
-
 
 ## &nbsp;About Me :
 
@@ -33,9 +36,6 @@ I am an Electrical Engineer from Pakistan.
 </div>
 
 <hr />
-
-### Visitor count
-<img src="https://profile-counter.glitch.me/Ammarkhan561/count.svg" />
 
 ## &nbsp; My Stats :
 
