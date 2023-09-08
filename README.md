@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&center=true&width=1000&lines=Hi+there+%F0%9F%91%8B!+I'm+Ammar+khan)](https://git.io/typing-svg)
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 
 <p align="left">
